@@ -8,4 +8,6 @@ For interactive maps, click on the links below:
 * [Auto Theft](https://hjhuney.github.io/Atlanta-Crime-Data/auto_theft_map.html)
 * [Vehicle Larceny](https://hjhuney.github.io/Atlanta-Crime-Data/veh_larceny_map.html)
 
+## Sample Image
+
 ![Larceny Map](https://github.com/hjhuney/Atlanta-Crime-Data/blob/master/atl_sample_image.svg)
